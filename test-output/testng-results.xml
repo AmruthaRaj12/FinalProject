@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-02T18:51:41 IST" name="Suite" finished-at="2023-07-02T18:53:13 IST" duration-ms="92240">
+    <groups>
+    </groups>
+    <test started-at="2023-07-02T18:51:41 IST" name="Test" finished-at="2023-07-02T18:53:13 IST" duration-ms="92240">
+      <class name="test.CreateAccountTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CreateAccountTest@f0da945]" started-at="2023-07-02T18:51:41 IST" name="setup" finished-at="2023-07-02T18:51:54 IST" duration-ms="13694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testlogin()[pri:0, instance:test.CreateAccountTest@f0da945]" started-at="2023-07-02T18:51:54 IST" name="testlogin" finished-at="2023-07-02T18:52:02 IST" duration-ms="7766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+      </class> <!-- test.CreateAccountTest -->
+      <class name="test.ShopTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.ShopTest@31fa1761]" started-at="2023-07-02T18:52:02 IST" name="setup" finished-at="2023-07-02T18:52:23 IST" duration-ms="20985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testshop()[pri:0, instance:test.ShopTest@31fa1761]" started-at="2023-07-02T18:52:23 IST" name="testshop" finished-at="2023-07-02T18:53:13 IST" duration-ms="49701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testshop -->
+      </class> <!-- test.ShopTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
